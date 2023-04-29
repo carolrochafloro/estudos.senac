@@ -1,0 +1,15 @@
+C:\workspace\pratica-csharp\media-alunos\bin\Debug\net7.0\media-alunos.exe
+C:\workspace\pratica-csharp\media-alunos\bin\Debug\net7.0\media-alunos.deps.json
+C:\workspace\pratica-csharp\media-alunos\bin\Debug\net7.0\media-alunos.runtimeconfig.json
+C:\workspace\pratica-csharp\media-alunos\bin\Debug\net7.0\media-alunos.dll
+C:\workspace\pratica-csharp\media-alunos\bin\Debug\net7.0\media-alunos.pdb
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\media-alunos.csproj.AssemblyReference.cache
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\media-alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\media-alunos.AssemblyInfoInputs.cache
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\media-alunos.AssemblyInfo.cs
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\media-alunos.csproj.CoreCompileInputs.cache
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\media-alunos.dll
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\refint\media-alunos.dll
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\media-alunos.pdb
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\media-alunos.genruntimeconfig.cache
+C:\workspace\pratica-csharp\media-alunos\obj\Debug\net7.0\ref\media-alunos.dll
