@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\pratica-csharp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\workspace\\pratica-csharp\\soma-numeros-pares\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\workspace\\pratica-csharp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\workspace\\pratica-csharp\\soma-numeros-pares\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Carolina Rocha\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\pratica-csharp\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\workspace\\pratica-csharp\\soma-numeros-pares\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
