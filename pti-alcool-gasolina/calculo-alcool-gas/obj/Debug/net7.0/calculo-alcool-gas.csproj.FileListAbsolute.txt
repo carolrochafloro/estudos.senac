@@ -1,0 +1,15 @@
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\calculo-alcool-gas.csproj.AssemblyReference.cache
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\calculo-alcool-gas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\calculo-alcool-gas.AssemblyInfoInputs.cache
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\calculo-alcool-gas.AssemblyInfo.cs
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\calculo-alcool-gas.csproj.CoreCompileInputs.cache
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\bin\Debug\net7.0\calculo-alcool-gas.exe
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\bin\Debug\net7.0\calculo-alcool-gas.deps.json
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\bin\Debug\net7.0\calculo-alcool-gas.runtimeconfig.json
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\bin\Debug\net7.0\calculo-alcool-gas.dll
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\bin\Debug\net7.0\calculo-alcool-gas.pdb
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\calculo-alcool-gas.dll
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\refint\calculo-alcool-gas.dll
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\calculo-alcool-gas.pdb
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\calculo-alcool-gas.genruntimeconfig.cache
+C:\workspace\pratica-csharp\pti-alcool-gasolina\calculo-alcool-gas\obj\Debug\net7.0\ref\calculo-alcool-gas.dll
