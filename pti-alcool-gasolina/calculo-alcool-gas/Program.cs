@@ -2,6 +2,7 @@
 {
   private static void Main(string[] args)
   {
+    
     double gas, alcool, result;
     bool novoCalculo = true;
     string resposta;
