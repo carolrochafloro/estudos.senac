@@ -3,44 +3,9 @@
   private static void Main(string[] args)
   {
     
-    double gas, alcool, result;
-    bool novoCalculo = true;
-    string resposta;
-
-    do 
-    { 
-    Console.WriteLine("Digite o preço do álcool:");
-    alcool = double.Parse(Console.ReadLine());
-
-    Console.WriteLine("Digite o preço da gasolina:");
-    gas = double.Parse(Console.ReadLine());
-
-    result = (alcool/gas);
-
-    if (result > 0.7) 
-    {
-      Console.WriteLine("Abasteça com gasolina");
-    }
-
-    else if (result < 0.7) 
-    {
-      Console.WriteLine("Abasteça com álcool.");
-    }
-
-    else 
-    {
-      Console.WriteLine("Tanto faz");
-    }
-
-    Console.WriteLine("Pressione <N> para calcular novamente ou <S> para sair");
-    resposta = Console.ReadLine();
-
-    if (resposta.ToUpper() != "N") 
-    {
-      novoCalculo = false;
-    }
-    }
-    while (novoCalculo);
-
+    for (int x=1; x < 10; x++);
+    if (x % 4 != 0 && x % 2 == 0);
+    for (int y = 1; y < 5; y++);
+    Console.WriteLine(y);
   }
   }
