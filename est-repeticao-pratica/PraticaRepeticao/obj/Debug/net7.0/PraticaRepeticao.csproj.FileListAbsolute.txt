@@ -1,0 +1,15 @@
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\bin\Debug\net7.0\PraticaRepeticao.exe
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\bin\Debug\net7.0\PraticaRepeticao.deps.json
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\bin\Debug\net7.0\PraticaRepeticao.runtimeconfig.json
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\bin\Debug\net7.0\PraticaRepeticao.dll
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\bin\Debug\net7.0\PraticaRepeticao.pdb
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\PraticaRepeticao.csproj.AssemblyReference.cache
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\PraticaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\PraticaRepeticao.AssemblyInfoInputs.cache
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\PraticaRepeticao.AssemblyInfo.cs
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\PraticaRepeticao.csproj.CoreCompileInputs.cache
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\PraticaRepeticao.dll
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\refint\PraticaRepeticao.dll
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\PraticaRepeticao.pdb
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\PraticaRepeticao.genruntimeconfig.cache
+C:\workspace\estudos-senac\est-repeticao-pratica\PraticaRepeticao\obj\Debug\net7.0\ref\PraticaRepeticao.dll

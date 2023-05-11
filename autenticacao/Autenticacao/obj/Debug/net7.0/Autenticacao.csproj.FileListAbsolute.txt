@@ -1,0 +1,15 @@
+C:\workspace\estudos-senac\autenticacao\Autenticacao\bin\Debug\net7.0\Autenticacao.exe
+C:\workspace\estudos-senac\autenticacao\Autenticacao\bin\Debug\net7.0\Autenticacao.deps.json
+C:\workspace\estudos-senac\autenticacao\Autenticacao\bin\Debug\net7.0\Autenticacao.runtimeconfig.json
+C:\workspace\estudos-senac\autenticacao\Autenticacao\bin\Debug\net7.0\Autenticacao.dll
+C:\workspace\estudos-senac\autenticacao\Autenticacao\bin\Debug\net7.0\Autenticacao.pdb
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\Autenticacao.csproj.AssemblyReference.cache
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\Autenticacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\Autenticacao.AssemblyInfoInputs.cache
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\Autenticacao.AssemblyInfo.cs
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\Autenticacao.csproj.CoreCompileInputs.cache
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\Autenticacao.dll
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\refint\Autenticacao.dll
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\Autenticacao.pdb
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\Autenticacao.genruntimeconfig.cache
+C:\workspace\estudos-senac\autenticacao\Autenticacao\obj\Debug\net7.0\ref\Autenticacao.dll
