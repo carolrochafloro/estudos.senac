@@ -1,0 +1,15 @@
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\GraficoBarras.csproj.AssemblyReference.cache
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\GraficoBarras.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\GraficoBarras.AssemblyInfoInputs.cache
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\GraficoBarras.AssemblyInfo.cs
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\GraficoBarras.csproj.CoreCompileInputs.cache
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\bin\Debug\net7.0\GraficoBarras.exe
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\bin\Debug\net7.0\GraficoBarras.deps.json
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\bin\Debug\net7.0\GraficoBarras.runtimeconfig.json
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\bin\Debug\net7.0\GraficoBarras.dll
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\bin\Debug\net7.0\GraficoBarras.pdb
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\GraficoBarras.dll
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\refint\GraficoBarras.dll
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\GraficoBarras.pdb
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\GraficoBarras.genruntimeconfig.cache
+C:\workspace\estudos-senac\funcoes-pratica\grafico-barras\GraficoBarras\obj\Debug\net7.0\ref\GraficoBarras.dll

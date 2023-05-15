@@ -1,0 +1,15 @@
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\bin\Debug\net7.0\WhileFor.exe
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\bin\Debug\net7.0\WhileFor.deps.json
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\bin\Debug\net7.0\WhileFor.runtimeconfig.json
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\bin\Debug\net7.0\WhileFor.dll
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\bin\Debug\net7.0\WhileFor.pdb
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\WhileFor.csproj.AssemblyReference.cache
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\WhileFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\WhileFor.AssemblyInfoInputs.cache
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\WhileFor.AssemblyInfo.cs
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\WhileFor.csproj.CoreCompileInputs.cache
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\WhileFor.dll
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\refint\WhileFor.dll
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\WhileFor.pdb
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\WhileFor.genruntimeconfig.cache
+C:\workspace\estudos-senac\est-repeticao-pratica\while-for\WhileFor\obj\Debug\net7.0\ref\WhileFor.dll
