@@ -1,0 +1,15 @@
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.csproj.AssemblyReference.cache
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.AssemblyInfo.cs
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.exe
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.deps.json
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.runtimeconfig.json
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.dll
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.pdb
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.dll
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\refint\EstruturaCondicional.dll
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.pdb
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.genruntimeconfig.cache
+C:\workspace\csharp-nelioalves\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\ref\EstruturaCondicional.dll
