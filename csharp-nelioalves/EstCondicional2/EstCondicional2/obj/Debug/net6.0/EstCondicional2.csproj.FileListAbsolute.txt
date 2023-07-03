@@ -1,0 +1,15 @@
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\bin\Debug\net6.0\EstCondicional2.exe
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\bin\Debug\net6.0\EstCondicional2.deps.json
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\bin\Debug\net6.0\EstCondicional2.runtimeconfig.json
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\bin\Debug\net6.0\EstCondicional2.dll
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\bin\Debug\net6.0\EstCondicional2.pdb
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\EstCondicional2.csproj.AssemblyReference.cache
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\EstCondicional2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\EstCondicional2.AssemblyInfoInputs.cache
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\EstCondicional2.AssemblyInfo.cs
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\EstCondicional2.csproj.CoreCompileInputs.cache
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\EstCondicional2.dll
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\refint\EstCondicional2.dll
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\EstCondicional2.pdb
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\EstCondicional2.genruntimeconfig.cache
+C:\workspace\csharp-nelioalves\EstCondicional2\EstCondicional2\obj\Debug\net6.0\ref\EstCondicional2.dll

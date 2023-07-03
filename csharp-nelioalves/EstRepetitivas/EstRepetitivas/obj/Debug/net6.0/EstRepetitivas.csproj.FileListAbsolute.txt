@@ -1,0 +1,15 @@
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\bin\Debug\net6.0\EstRepetitivas.exe
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\bin\Debug\net6.0\EstRepetitivas.deps.json
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\bin\Debug\net6.0\EstRepetitivas.runtimeconfig.json
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\bin\Debug\net6.0\EstRepetitivas.dll
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\bin\Debug\net6.0\EstRepetitivas.pdb
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\EstRepetitivas.csproj.AssemblyReference.cache
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\EstRepetitivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\EstRepetitivas.AssemblyInfoInputs.cache
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\EstRepetitivas.AssemblyInfo.cs
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\EstRepetitivas.csproj.CoreCompileInputs.cache
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\EstRepetitivas.dll
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\refint\EstRepetitivas.dll
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\EstRepetitivas.pdb
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\EstRepetitivas.genruntimeconfig.cache
+C:\workspace\csharp-nelioalves\EstRepetitivas\EstRepetitivas\obj\Debug\net6.0\ref\EstRepetitivas.dll
