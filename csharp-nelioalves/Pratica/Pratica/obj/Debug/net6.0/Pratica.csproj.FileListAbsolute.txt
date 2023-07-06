@@ -1,0 +1,15 @@
+C:\workspace\csharp-nelioalves\Pratica\Pratica\bin\Debug\net6.0\Pratica.exe
+C:\workspace\csharp-nelioalves\Pratica\Pratica\bin\Debug\net6.0\Pratica.deps.json
+C:\workspace\csharp-nelioalves\Pratica\Pratica\bin\Debug\net6.0\Pratica.runtimeconfig.json
+C:\workspace\csharp-nelioalves\Pratica\Pratica\bin\Debug\net6.0\Pratica.dll
+C:\workspace\csharp-nelioalves\Pratica\Pratica\bin\Debug\net6.0\Pratica.pdb
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\Pratica.csproj.AssemblyReference.cache
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\Pratica.AssemblyInfoInputs.cache
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\Pratica.AssemblyInfo.cs
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\Pratica.csproj.CoreCompileInputs.cache
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\Pratica.dll
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\refint\Pratica.dll
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\Pratica.pdb
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\Pratica.genruntimeconfig.cache
+C:\workspace\csharp-nelioalves\Pratica\Pratica\obj\Debug\net6.0\ref\Pratica.dll
