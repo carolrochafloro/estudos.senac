@@ -1,0 +1,15 @@
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\bin\Debug\net6.0\Pratica2NaoSubir.exe
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\bin\Debug\net6.0\Pratica2NaoSubir.deps.json
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\bin\Debug\net6.0\Pratica2NaoSubir.runtimeconfig.json
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\bin\Debug\net6.0\Pratica2NaoSubir.dll
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\bin\Debug\net6.0\Pratica2NaoSubir.pdb
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\Pratica2NaoSubir.csproj.AssemblyReference.cache
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\Pratica2NaoSubir.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\Pratica2NaoSubir.AssemblyInfoInputs.cache
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\Pratica2NaoSubir.AssemblyInfo.cs
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\Pratica2NaoSubir.csproj.CoreCompileInputs.cache
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\Pratica2NaoSubir.dll
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\refint\Pratica2NaoSubir.dll
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\Pratica2NaoSubir.pdb
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\Pratica2NaoSubir.genruntimeconfig.cache
+C:\workspace\csharp-nelioalves\Pratica2NaoSubir\Pratica2NaoSubir\obj\Debug\net6.0\ref\Pratica2NaoSubir.dll
